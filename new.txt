@@ -1,0 +1,4 @@
+NAME Nabokin Sergey
+AGE 28
+PETS 0
+SALARY 1000
